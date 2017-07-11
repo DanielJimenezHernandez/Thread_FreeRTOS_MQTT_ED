@@ -41,9 +41,9 @@
 CONFIG APPLICATION
 ==================================================================================================*/
 
-#define SOCK_DEMO                  0
+#define SOCK_DEMO                  1
 
-#define UDP_ECHO_PROTOCOL          0
+#define UDP_ECHO_PROTOCOL          1
 
 #define USE_TEMPERATURE_SENSOR     0
 
